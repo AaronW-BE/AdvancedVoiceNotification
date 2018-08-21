@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">语音通知</string>
+    <string name="add_app">添加应用</string>
+    <string name="app_description">语音通知提供语音读取通知服务，当您不方便直接使用手机时，让手机直接给你读出消息。若想获得更好的效果请调整合适的媒体音量，并允许相关应用弹出通知。\n\n AaronW \n Just for U</string>
+</resources>
